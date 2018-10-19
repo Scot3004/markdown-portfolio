@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Sergio Orozco Torres](https://github.com/Scot3004)
